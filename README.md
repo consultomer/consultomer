@@ -12,7 +12,7 @@ An aspiring engineer looking for experience to polish his skills and get industr
 * 📫  You can contact me at [consultomer@gmail.com](mailto:consultomer@gmail.com)
 * 🚀  I'm currently working on [Cywift](http://cywift.com)
 * 🧠  I'm learning Ansible Terraform and Kubernetes
-* 🤝  I'm open to collaborating on Flask Laravel Django AWS Docker
+* 🤝  I'm open to collaborating on Flask, FastAPI, Laravel, Django, AWS, Azure, Oracle, and Docker
 * ⚡  I love traveling
 
 ### Skills
