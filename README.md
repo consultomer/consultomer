@@ -1,8 +1,8 @@
-### Hi 👋 My name is Omer Abdulrehman
+### Hi 👋 My name is Omer Abdul Rehman
 
 =================================
 
-Software Engineer | DevOps
+DevOps Engineer | Cloud Engineer | Software Engineer
 --------------------------
 
 An aspiring engineer looking for experience to polish his skills and get industrial exposure. Self-motivated with knowledge of multiple domains i.e. Azure | Virtualization | Networks | Storage | Linux
